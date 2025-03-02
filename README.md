@@ -106,14 +106,6 @@ mutation {
 }
 ```
 
-## Running the Application
-
-```bash
-npm run dev
-```
-
-The server will start on port 3000.
-
 ## Adding New Models
 
 To add a new model to the system:
