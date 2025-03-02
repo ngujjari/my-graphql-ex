@@ -1,0 +1,40 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven target directory
+/target/
+
+# Intellij files
+.idea/
+*.iml
+
+# Eclipse files
+.settings/
+.project
+.classpath
+
+# NetBeans files
+nbproject/
+
+# Temporary files created by operating systems
+.DS_Store
+Thumbs.db
+
+# Backup files from text editors
+*~
+*.swp
+
+# Maven wrapper
+.mvn/wrapper/target/
+.mvn/target/
